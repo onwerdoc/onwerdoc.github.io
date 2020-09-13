@@ -1,2 +1,2 @@
-# onwerdoc4everyone.github.io
+# onwerdoc.github.io
 place for ur own important document
